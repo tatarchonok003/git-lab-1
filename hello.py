@@ -1,25 +1,4 @@
-print("Hello, Git!")
-
-dir hello.py
-type hello.py
-
-
-
-
-git add hello.py
-git commit -m "„®Ў ў«Ґ­ hello.py"
-
-
-C:\Users\User\git-lab-1>
-
-C:\Users\User\git-lab-1>dir hello.py
-type hello.py
-C:\Users\User\git-lab-1>git add hello.py
-git commit -m "„®Ў ў«Ґ­ hello.py"
-git log --oneline
-
-
-
-C:\Users\User\git-lab-1>git log --oneline
+name = input("Введите ваше имя: ")
+print(f"Привет, {name}! Рад познакомиться.")
 
 
